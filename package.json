@@ -1,6 +1,6 @@
 {
   "name": "@enhance-labs/base-element",
-  "version": "1.2.0",
+  "version": "1.2.1-beta.0",
   "description": "Enhance base element class",
   "main": "index.mjs",
   "scripts": {
