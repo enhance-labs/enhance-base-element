@@ -5,7 +5,7 @@ The Enhance Base Element enables reuse of single file components.
 
 ## Install
 
-`npm i @enhance/base-element`
+`npm i @enhance-labs/base-element`
 
 ## Usage
 

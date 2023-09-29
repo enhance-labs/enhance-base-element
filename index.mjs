@@ -1,3 +1,8 @@
+if (typeof process !== 'undefined') {
+  global.HTMLElement = function () { return {} }
+  global.customElements = { define: function(){} }
+}
+
 export default class BaseElement extends HTMLElement {
   constructor() {
     super()
